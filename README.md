@@ -8,7 +8,7 @@ My list of useful resources I've collected over the years
 * https://animekayo.com/ (x265 dual audio when available)
 * https://animekaizoku.com/ (x265?)
 
-
+# Privacy
 
 ### Ad Tracking Opt-outs
 * https://simpleoptout.com/ (manual per company)
