@@ -9,3 +9,6 @@ https://simpleoptout.com/ (manual per company)
 https://stoptargetingads.me (guides for some companies)
 https://optout.aboutads.info (bulk opt out)
 https://optout.networkadvertising.org (another bullk opt out)
+
+# DDL
+https://crots.club/ (Movies & TV)
