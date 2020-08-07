@@ -12,6 +12,7 @@ My list of useful resources I've collected over the years
 
 ### Anime Streaming
 * https://databasegdriveplayer.xyz/anime.php/ (Open Directory of GDrive Links)
+* https://aniwatch.me/ (Account needed, prerolls but amazing in every other way)
 
 ### Anime DDL
 * https://anidl.org/ (mixed qualities, x264, x265)
@@ -41,6 +42,6 @@ My list of useful resources I've collected over the years
 * https://database.gdriveplayer.me/series.php/
 
 ### Mirrors 
-* https://mirrorace.com/ (reccomended, HELLA mirrors)
+* https://mirrorace.com/ (recommended, HELLA mirrors)
 * https://multiup.eu/ 
 * https://www.mirrored.to/
