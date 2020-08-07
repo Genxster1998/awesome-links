@@ -32,6 +32,7 @@ My list of useful resources I've collected over the years
 * https://gd.zxd.workers.dev/ (Team Drive Generator)
 * http://www.corruptmyfile.com/
 * https://fileinfo.com/ (database of filetypes)
+* https://cloudbox.works/ (Guide to the Ultimate Automated Media server, on the cloud)
 
 ### Movies And TV DDL
 * https://crots.club/ (Movies & TV)
