@@ -33,6 +33,7 @@ My list of useful resources I've collected over the years
 * http://www.corruptmyfile.com/
 * https://fileinfo.com/ (database of filetypes)
 * https://cloudbox.works/ (Guide to the Ultimate Automated Media server, on the cloud)
+* https://github.com/plexdrive/plexdrive/ (mount your GDrive as a FUSE filesystem, for optimzied media playback)
 
 ### Movies And TV DDL
 * https://crots.club/ (Movies & TV)
